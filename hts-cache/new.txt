@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:27:43	633/633	---MCZ	200	added ('OK')	text/plain	date:Fri,%2026%20Jun%202026%2006:27:42%20GMT	https://sewawablast.com/robots.txt		(from )
+13:27:44	12231/12231	---MCZ	200	added ('OK')	text/html	date:Fri,%2026%20Jun%202026%2006:27:42%20GMT	https://sewawablast.com/	C:/Users/hamal/Documents/1/sewawablast.com/index.html	(from )
+13:28:06	6856/6856	---MCZ	200	added ('OK')	text/html	date:Fri,%2026%20Jun%202026%2006:28:05%20GMT	https://sewawablast.com/member/login	C:/Users/hamal/Documents/1/sewawablast.com/member/login.html	(from https://sewawablast.com/)
+13:28:08	11497/11497	---MCZ	200	added ('OK')	text/html	date:Fri,%2026%20Jun%202026%2006:28:06%20GMT	https://sewawablast.com/member/register	C:/Users/hamal/Documents/1/sewawablast.com/member/register.html	(from https://sewawablast.com/)
